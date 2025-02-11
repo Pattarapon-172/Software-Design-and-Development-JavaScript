@@ -1,7 +1,7 @@
 # การทดลอง พื้นฐาน JavaScript และการใช้งานร่วมกับ HTML/CSS
 ## การทดลองที่ 1 : ทำความรู้จักกับ JavaScript
 ###  การเพิ่ม JavaScript ลงในเว็บเพจ
-
+,;ll;l;l;l;l
 JavaScript สามารถเพิ่มลงในเว็บเพจได้ 3 วิธี:
 
 1. แบบ Inline: แทรก scipt ในแต่ละบรรทัดของ HTML Element
