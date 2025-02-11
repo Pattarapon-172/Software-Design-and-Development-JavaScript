@@ -16,7 +16,7 @@ JavaScript สามารถเพิ่มลงในเว็บเพจไ
 </script>
 ```
 
-3. แบบ External Script: เขียน script ในไฟล์แล้วเรียกใช้ใน HTML
+3. แบบ External Script: เขียน script ในไฟล์แล้วเรียกใช้ใน HTM
    ไฟล์ script.js มีข้อมูลดังนี้
 ```javascript
     alert('สวัสดี!');
