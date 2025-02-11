@@ -118,6 +118,8 @@ JavaScript สามารถเพิ่มลงในเว็บเพจไ
 ```
 [![Screenshot 2025-02-11 164530](https://github.com/user-attachments/assets/dd8c8a83-a90f-4490-8d7e-30fc49a73280)
 ![Screenshot 2025-02-11 164439](https://github.com/user-attachments/assets/8c3297b1-4f7f-4694-bec7-fd913ef30794)
+![Screenshot 2025-02-11 164530](https://github.com/user-attachments/assets/dc7fa2c6-ddf5-4fcf-afa2-4c89d80d4ec6)
+![Screenshot 2025-02-11 164519](https://github.com/user-attachments/assets/bec2e9a7-6456-4514-a83e-73cdc9437263)
 ]
   
 ## การทดลองที่ 2: พื้นฐาน JavaScript
