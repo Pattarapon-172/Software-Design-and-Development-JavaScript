@@ -674,9 +674,42 @@ console.log("เลขคู่:", evenNumbers); // [2, 4]
 
 ### บันทึกผลการทดลอง 2.4.2
 ```html
-[บันทึกโค้ด ที่นี่]
+[const calculateBMI = (weight, height) => (weight / (height ** 2)).toFixed(2);
+
+// ทดสอบใช้งาน
+console.log("BMI:", calculateBMI(70, 1.75)); // น้ำหนัก 70 กก. ส่วนสูง 1.75 เมตร
+
+const greetUser = (name, age) => {
+    return age < 15 ? 'สวัสดี ครับเฮีย ${name}' :
+           age < 23 ? 'หวัดดี! น้องชาย ${name}' :
+                      'สวัสดี คุณ ${name}';
+};
+
+// ทดสอบใช้งาน
+console.log(greetUser("นิธิ", 10));
+console.log(greetUser("นวพล", 18));
+console.log(greetUser("โจจีโร่", 25));
+
+const checkPassword = password => password.length > 8 ? "รหัสผ่านแข็งแรง" : "รหัสผ่านสั้นเกินไป";
+
+// ทดสอบใช้งาน
+console.log(checkPassword("00000"));
+console.log(checkPassword("mypassword000"));
+
+
+
+
+
+
+
+
+
+
+
+]
 ```
-[รูปผลการทดลองที่ 2.4.2]
+[![image](https://github.com/user-attachments/assets/b472afb9-7cd1-44de-862c-884c95fe6c23)
+]
 
 
 ## การทดลองที่ 3 : การใช้ JavaScript กับ HTML และ CSS
