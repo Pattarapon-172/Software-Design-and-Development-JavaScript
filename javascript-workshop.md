@@ -581,9 +581,59 @@ process(function() {
 
 ### บันทึกผลการทดลอง 2.4.1
 ```html
-[บันทึกโค้ด ที่นี่]
+[function calculateBMI(weight, height) {
+    let bmi = weight / (height * height);
+    return bmi.toFixed(2);
+}
+// ทดสอบใช้งาน
+console.log("BMI:", calculateBMI(70, 1.75));
+
+function greetUser(name, age) {
+    let message = "";
+
+    if (age < 18) {
+        message = "ดีครับเฮีย " + name;
+    } else if (age < 20) {
+        message = "ดีครับ!  " + name;
+    } else {
+        message = "สวัสดี คุณ " + name;
+    }
+
+    console.log(message);
+}
+
+// ทดสอบใช้งาน
+greetUser("นิธิ", 12);
+greetUser("นวพล", 20);
+greetUser("โจจีโร่", 35);
+
+function checkPassword(password) {
+    if (password.length > 8) {
+        return "รหัสผ่านแข็งแรง";
+    } else {
+        return "รหัสผ่านสั้นเกินไป";
+    }
+}
+
+// ทดสอบใช้งาน
+console.log(checkPassword("00000"));
+console.log(checkPassword("mypassword000"));
+
+
+
+
+
+
+
+
+
+
+
+
+]
 ```
-[รูปผลการทดลองที่ 2.4.1]
+[![image](https://github.com/user-attachments/assets/0b2b1d60-8faf-4600-b358-0a389593d140)
+]
 
 
 
